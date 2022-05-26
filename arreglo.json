@@ -1,0 +1,14 @@
+[
+    {
+        "enabled": true,
+        "service_id": 3,
+        "service_text": "Kinesiología Motora",
+        "service_url": "https://images-service-deployment.emergencias.com.ar/images/iconos/1/KINESOLOGIA.svg"
+    },
+    {
+        "enabled": true,
+        "service_id": 9,
+        "service_text": "Kinesiología Respiratoria",
+        "service_url": "https://images-service-deployment.emergencias.com.ar/images/iconos/1/neumonologia.svg"
+    }
+]

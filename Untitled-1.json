@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "code": 1,
+    "message": {
+        "text": "Successful login"
+    },
+    "data": {
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMzkiLCJlbWFpbCI6ImVtYWlscGFyYXNvcG9ydGVAZ21haWwuY29tIiwic2NvcGUiOjEsImlhdCI6MTY1MzU2ODE4M30.y25zUmk3JblXxrz1W4CYQih1yPG4k_ANVeTt9NEDg50",
+        "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEzOSwiZW1haWwiOiJlbWFpbHBhcmFzb3BvcnRlQGdtYWlsLmNvbSIsInNjb3BlIjoxLCJpYXQiOjE2NTM1NjgxODMsImV4cCI6MTY1MzY1NDU4M30.tHzsLkWeFYrq0gCBEhOnYtX0X3ErpfK6-NeFjZrWeio",
+        "status": 1,
+        "name": "Tarober, Roberta",
+        "initials": "RT"
+    },
+    "arreglo": [
+    {
+        "enabled": true,
+        "service_id": 3,
+        "service_text": "Kinesiología Motora",
+        "service_url": "https://images-service-deployment.emergencias.com.ar/images/iconos/1/KINESOLOGIA.svg"
+    },
+    {
+        "enabled": true,
+        "service_id": 9,
+        "service_text": "Kinesiología Respiratoria",
+        "service_url": "https://images-service-deployment.emergencias.com.ar/images/iconos/1/neumonologia.svg"
+    }],
+    "telefonos" : [ "123" ,"456"]
+    
+ 
+    
+}
